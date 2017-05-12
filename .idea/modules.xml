@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-common/auth-common.iml" filepath="$PROJECT_DIR$/auth-common/auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authorization-poc-parent.iml" filepath="$PROJECT_DIR$/authorization-poc-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authorization-server/authorization-server.iml" filepath="$PROJECT_DIR$/authorization-server/authorization-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-resource-server/sample-resource-server.iml" filepath="$PROJECT_DIR$/sample-resource-server/sample-resource-server.iml" />
+    </modules>
+  </component>
+</project>
